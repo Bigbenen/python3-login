@@ -49,4 +49,4 @@ class Login:
 
 if __name__ == '__main__':
     login = Login()
-    login.login(user='Bigbenen', password='zKk123,github')
+    login.login(user='***', password='***')
