@@ -204,5 +204,5 @@ class WeiboCookies:
 
 
 if __name__ == '__main__':
-    result = WeiboCookies('18106564398', 'zKk123,weibo.', None).main()
+    result = WeiboCookies('账号', '密码', None).main()
     print(result)
