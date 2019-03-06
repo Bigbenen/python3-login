@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 from PIL import Image
 from io import BytesIO
-from login import local_ocr
+from . import local_ocr
 #以下调试用
 from selenium import webdriver
 
